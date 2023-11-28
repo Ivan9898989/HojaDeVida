@@ -1,0 +1,32 @@
+h1 {
+    color: green;
+    font-size: 20px; 
+}
+
+h2{
+    color: green;
+    font-size: 18px;
+}
+
+h4{
+    color: green;
+    font-size: 16px;
+}
+
+h5{
+    color: red;
+    font-size: 14px;
+}
+
+hr {
+    border-color: green;
+    border-width: 2px;
+}
+
+p{
+    color: blue;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
